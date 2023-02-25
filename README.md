@@ -19,4 +19,4 @@ To use TweetKraken, you will need to create a [Twitter Developer](https://develo
 5. The script will display the latest tweet from the specified list of usernames on the Kraken Z3 screen. It will continue to update the screen with the latest tweets at the specified interval.
 6. Setup a systemd service to background it.
 
-**Note:** Make sure to modify the `config.toml` file by including your [Twitter API credentials](https://developer.twitter.com/) and making any necessary changes to the list of usernames that TweetKraken loads. This has only been tested on Linux there may be dragons in M$ Windows land. PRs are welcome.
+**Note:** Make sure to modify the `config.toml.sample` and rename to `config.toml` and also include your [Twitter API credentials](https://developer.twitter.com/) and making any necessary changes to the list of usernames that TweetKraken loads. This has only been tested on Linux there may be dragons in M$ Windows land. PRs are welcome.
