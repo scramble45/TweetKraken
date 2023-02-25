@@ -1,0 +1,20 @@
+[twitter]
+usernames = [
+    "photonmt",
+    "masa_photo_jp",
+    "lisaknightphoto",
+    "r0w",
+    "Kojima_Hideo",
+    "archillect",
+    "JustinWhang",
+    "hackaday",
+    "reddit",
+    "NintendoAmerica",
+    "elonmusk",
+    "tesla",
+]
+
+consumer_key = "your_twitter_consumer_key"
+consumer_secret = "your_twitter_consumer_secret"
+access_token = "your_twitter_access_token"
+access_secret = "your_twitter_access_secret"
